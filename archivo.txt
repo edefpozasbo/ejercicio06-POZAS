@@ -1,0 +1,45 @@
+no_consecutivo : 1
+no_control : 15401039
+nombre : Timmy Turner
+calificacion : 90
+-------------------
+no_consecutivo : 2
+no_control : 15401040
+nombre : Carlos Santana
+calificacion : 100
+-------------------
+no_consecutivo : 3
+no_control : 15401041
+nombre : Roberto Carlos
+calificacion : 75
+-------------------
+no_consecutivo : 4
+no_control : 15401042
+nombre : Yolanda Carbajal
+calificacion : 99
+-------------------
+no_consecutivo : 5
+no_control : 15401043
+nombre : Romeo Santos
+calificacion : 77
+-------------------
+no_consecutivo : 6
+no_control : 15401044
+nombre : Edgar Pozas
+calificacion : 79
+-------------------
+no_consecutivo : 7
+no_control : 15401045
+nombre : Jesus Reynoso
+calificacion : 10
+-------------------
+no_consecutivo : 8
+no_control : 15401046
+nombre : Edwin Ponce
+calificacion : 80
+-------------------
+no_consecutivo : 9
+no_control : 15401047
+nombre : Miguel Robles
+calificacion : 50
+-------------------
